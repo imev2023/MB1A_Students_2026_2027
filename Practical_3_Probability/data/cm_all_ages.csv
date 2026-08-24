@@ -1,0 +1,6 @@
+Cytology,HPV_Status,N_individuals
+Normal,HPV+,2226
+Abnormal,HPV+,417
+Normal,HPV-,19154
+Abnormal,HPV-,46
+

@@ -1,0 +1,4 @@
+name,accession,description,genus,gene,orf_start,orf_end,orf_width
+ORF_3,AY099324,Porcine_ERV_B,gamma,env,7688,8410,723
+ORF_4,JQ303225,Bat_Endogenous_Retrovirus,gamma,gag,1401,2321,921
+ORF_2,JQ303225,Bat_Endogenous_Retrovirus,gamma,pol,3638,4327,690

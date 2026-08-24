@@ -1,0 +1,6 @@
+Gene_ID,Cancer_Type,Gene_Mutation_Count,Gene_Severe_Mutation_Count,Gene_Individuals_with_Mutations_Count,Gene_Individuals_with_Severe_Mutations_Count
+AXIN1,Liver_Hepatocellular_Carcinoma,27,19,26,19
+ALB,Liver_Hepatocellular_Carcinoma,58,25,49,24
+TP53,Liver_Hepatocellular_Carcinoma,114,35,111,35
+APOB,Liver_Hepatocellular_Carcinoma,44,19,40,18
+ARID1A,Liver_Hepatocellular_Carcinoma,33,20,31,19

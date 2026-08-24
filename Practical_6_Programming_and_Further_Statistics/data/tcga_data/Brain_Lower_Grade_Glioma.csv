@@ -1,0 +1,5 @@
+Gene_ID,Cancer_Type,Gene_Mutation_Count,Gene_Severe_Mutation_Count,Gene_Individuals_with_Mutations_Count,Gene_Individuals_with_Severe_Mutations_Count
+CIC,Brain_Lower_Grade_Glioma,131,62,108,52
+ATRX,Brain_Lower_Grade_Glioma,226,164,196,152
+TP53,Brain_Lower_Grade_Glioma,320,54,249,50
+FUBP1,Brain_Lower_Grade_Glioma,52,38,48,37

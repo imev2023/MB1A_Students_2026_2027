@@ -1,0 +1,6 @@
+---
+format: html
+practical: Practical_6_Further_Statistics
+---
+
+# Practical 6: Further Statistics

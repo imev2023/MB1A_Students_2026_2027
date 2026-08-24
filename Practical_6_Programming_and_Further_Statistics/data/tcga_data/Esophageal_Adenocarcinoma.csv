@@ -1,0 +1,5 @@
+Gene_ID,Cancer_Type,Gene_Mutation_Count,Gene_Severe_Mutation_Count,Gene_Individuals_with_Mutations_Count,Gene_Individuals_with_Severe_Mutations_Count
+ARID1A,Esophageal_Adenocarcinoma,15,10,15,10
+TP53,Esophageal_Adenocarcinoma,181,61,158,56
+KMT2D,Esophageal_Adenocarcinoma,31,13,26,13
+TTN,Esophageal_Adenocarcinoma,153,12,94,11

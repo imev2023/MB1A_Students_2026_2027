@@ -1,0 +1,337 @@
+species,english_name,order,family
+Rosa canina,Dog-rose,Rosales,Rosaceae
+Vicia spp,Vetch,Fabales,Fabaceae
+Alnus glutinosa,Alder,Fagales,Betulaceae
+Prunus spinosa,Blackthorn,Rosales,Rosaceae
+Sorbus aucuparia,Rowan,Rosales,Rosaceae
+Ilex aquifolium,Holly,Aquifoliales,Aquifoliaceae
+Rubus fruticosus,Bramble,Rosales,Rosaceae
+Hedera helix,Ivy,Apiales,Araliaceae
+Ulex europaeus,Gorse,Fabales,Fabaceae
+Urtica dioica,Common Nettle,Rosales,Urticaceae
+Filipendula ulmaria,Meadowsweet,Rosales,Rosaceae
+Succisa pratensis,Devil's-bit Scabious,Dipsacales,Caprifoliaceae
+Trifolium repens,White Clover,Fabales,Fabaceae
+Chamerion angustifolium,Rosebay Willowherb,Myrtales,Onagraceae
+Vicia benghalensis,Purple Vetch,Fabales,Fabaceae
+Stellaria graminea,Lesser Stitchwort,Caryophyllales,Caryophyllaceae
+Poa annua,Annual Meadow-grass,Poales,Poaceae
+Hypochaeris radicata,Cat's-ear,Asterales,Asteraceae
+Melampyrum pratense,Common Cow-wheat,Lamiales,Orobanchaceae
+Galium saxatile,Heath Bedstraw,Gentianales,Rubiaceae
+Potentilla erecta,Tormentil,Rosales,Rosaceae
+Erica tetralix,Cross-leaved Heath,Ericales,Ericaceae
+Eriophorum vaginatum,Hare's-tail Cottongrass,Poales,Cyperaceae
+Lapsana communis,Nipplewort,Asterales,Asteraceae
+Ranunculus repens,Creeping Buttercup,Ranunculales,Ranunculaceae
+Cirsium arvense,Creeping Thistle,Asterales,Asteraceae
+Plantago lanceolata,Ribwort Plantain,Lamiales,Plantaginaceae
+Lathyrus pratensis,Meadow Vetchling,Fabales,Fabaceae
+Anthriscus sylvestris,Cow Parsley,Apiales,Apiaceae
+Geranium robertianum,Herb-Robert,Geraniales,Geraniaceae
+Silene dioica,Red Campion,Caryophyllales,Caryophyllaceae
+Galium aparine,Cleavers,Gentianales,Rubiaceae
+Brassica napus,Oil-seed Rape,Brassicales,Brassicaceae
+Anagallis arvensis,Scarlet Pimpernel,Ericales,Primulaceae
+Odontites vernus,Red Bartsia,Lamiales,Orobanchaceae
+Potentilla anserina,Silverweed,Rosales,Rosaceae
+Prunella vulgaris,Selfheal,Lamiales,Lamiaceae
+Bellis perennis,Daisy,Asterales,Asteraceae
+Cirsium vulgare,Spear Thistle,Asterales,Asteraceae
+Senecio vulgaris,Groundsel,Asterales,Asteraceae
+Lamium album,White Dead-nettle,Lamiales,Lamiaceae
+Myosotis arvensis,Field Forget-me-not,NA,Boraginaceae
+Mercurialis perennis,Dog's Mercury,Malpighiales,Euphorbiaceae
+Sonchus asper,Prickly Sow-thistle,Asterales,Asteraceae
+Peucedanum ostruthium,Masterwort,Apiales,Apiaceae
+Epilobium palustre,Marsh Willowherb,Myrtales,Onagraceae
+Turgenia latifolia,Greater Bur-parsley,Apiales,Apiaceae
+Aegopodium podagraria,Ground-elder,Apiales,Apiaceae
+Heracleum sphondylium,Hogweed,Apiales,Apiaceae
+Cirsium palustre,Marsh Thistle,Asterales,Asteraceae
+Trifolium pratense,Red Clover,Fabales,Fabaceae
+Scorzoneroides autumnalis,Autumn Hawkbit,Asterales,Asteraceae
+Digitalis purpurea,Foxglove,Lamiales,Plantaginaceae
+Galium palustre,Marsh-bedstraw,Gentianales,Rubiaceae
+Veronica chamaedrys,Germander Speedwell,Lamiales,Plantaginaceae
+Cardamine pratensis,Cuckooflower,Brassicales,Brassicaceae
+Dactylorhiza fuchsii,Common Spotted-orchid,Asparagales,Orchidaceae
+Doronicum plantagineum,Plantain-leaved Leopard's-bane,Asterales,Asteraceae
+Cerastium fontanum,Common Mouse-ear,Caryophyllales,Caryophyllaceae
+Ranunculus flammula,Lesser Spearwort,Ranunculales,Ranunculaceae
+Rumex obtusifolius,Broad-leaved Dock,Caryophyllales,Polygonaceae
+Cardamine hirsuta,Hairy Bitter-cress,Brassicales,Brassicaceae
+Impatiens glandulifera,Indian Balsam,Ericales,Balsaminaceae
+Lotus corniculatus,Common Bird's-foot-trefoil,Fabales,Fabaceae
+Centaurea nigra,Common Knapweed,Asterales,Asteraceae
+Viola riviniana,Common Dog-violet,Malpighiales,Violaceae
+Anemone nemorosa,Wood Anemone,Ranunculales,Ranunculaceae
+Alliaria petiolata,Garlic Mustard,Brassicales,Brassicaceae
+Calluna vulgaris,Heather,Ericales,Ericaceae
+Campanula rotundifolia,Harebell,Asterales,Campanulaceae
+Crataegus monogyna,Hawthorn,Rosales,Rosaceae
+Ranunculus acris,Meadow Buttercup,Ranunculales,Ranunculaceae
+Vaccinium vitis,Cowberry,Ericales,Ericaceae
+Vaccinium myrtillus,Bilberry,Ericales,Ericaceae
+Sisymbrium officinale,Hedge Mustard,Brassicales,Brassicaceae
+Aethusa cynapium,Fool's Parsley,Apiales,Apiaceae
+Silene latifolia,White Campion,Caryophyllales,Caryophyllaceae
+Papaver rhoeas,Common Poppy,Ranunculales,Papaveraceae
+Cichorium intybus,Chicory,Asterales,Asteraceae
+Narthecium ossifragum,Bog Asphodel,Dioscoreales,Nartheciaceae
+Galium verum,Lady's Bedstraw,Gentianales,Rubiaceae
+Veronica serpyllifolia,Thyme-leaved Speedwell,Lamiales,Plantaginaceae
+Crepis capillaris,Smooth Hawk's-beard,Asterales,Asteraceae
+Plantago major,Greater Plantain,Lamiales,Plantaginaceae
+Verbena x,Hybrid Verbena,Lamiales,Verbenaceae
+Epilobium hirsutum,Great Willowherb,Myrtales,Onagraceae
+Persicaria maculosa,Redshank,Caryophyllales,Polygonaceae
+Picris echioides,Bristly Oxtongue,Asterales,Asteraceae
+Jacobaea vulgaris,Common Ragwort,Asterales,Asteraceae
+Sinapis arvensis,Charlock,Brassicales,Brassicaceae
+Capsella bursa,Shepherd's-purse,Brassicales,Brassicaceae
+Rumex crispus,Curled Dock,Caryophyllales,Polygonaceae
+Geranium dissectum,Cut-leaved Crane's-bill,Geraniales,Geraniaceae
+Lactuca serriola,Prickly Lettuce,Asterales,Asteraceae
+Veronica persica,Common Field-speedwell,Lamiales,Plantaginaceae
+Convolvulus arvensis,Field Bindweed,Solanales,Convolvulaceae
+Viola arvensis,Field Pansy,Malpighiales,Violaceae
+Anchusa arvensis,Bugloss,NA,Boraginaceae
+Rumex acetosella,Sheep's Sorrel,Caryophyllales,Polygonaceae
+Erica cinerea,Bell Heather,Ericales,Ericaceae
+Lysimachia nemorum,Yellow Pimpernel,Ericales,Primulaceae
+Medicago lupulina,Black Medick,Fabales,Fabaceae
+Luzula campestris,Field Wood-rush,Poales,Juncaceae
+Glechoma hederacea,Ground-ivy,Lamiales,Lamiaceae
+Sagina saginoides,Scottish Pearlwort,Caryophyllales,Caryophyllaceae
+Lonicera periclymenum,Honeysuckle,Dipsacales,Caprifoliaceae
+Ballota nigra,Black Horehound,Lamiales,Lamiaceae
+Mentha aquatica,Water Mint,Lamiales,Lamiaceae
+Solanum dulcamara,Bittersweet,Solanales,Solanaceae
+Achillea millefolium,Yarrow,Asterales,Asteraceae
+Calystegia sepium,Hedge Bindweed,Solanales,Convolvulaceae
+Centaurea cyanus,Cornflower,Asterales,Asteraceae
+Daucus carota,Wild Carrot,Apiales,Apiaceae
+Sonchus arvensis,Perennial Sow-thistle,Asterales,Asteraceae
+Matricaria discoidea,Pineappleweed,Asterales,Asteraceae
+Ulex gallii,Western Gorse,Fabales,Fabaceae
+Leontodon hispidus,Rough Hawkbit,Asterales,Asteraceae
+Epilobium montanum,Broad-leaved Willowherb,Myrtales,Onagraceae
+Buddleja davidii,Butterfly-bush,Lamiales,Scrophulariaceae
+Chamaemelum nobile,Chamomile,Asterales,Asteraceae
+Artemisia vulgaris,Mugwort,Asterales,Asteraceae
+Lythrum salicaria,Purple-loosestrife,Myrtales,Lythraceae
+Vicia sativa,Common Vetch,Fabales,Fabaceae
+Tripleurospermum inodorum,Scentless Mayweed,Asterales,Asteraceae
+Pedicularis sylvatica,Lousewort,Lamiales,Orobanchaceae
+Lotus pedunculatus,Greater Bird's-foot-trefoil,Fabales,Fabaceae
+Pulicaria dysenterica,Common Fleabane,Asterales,Asteraceae
+Hypericum forrestii,Forrest's Tutsan,Malpighiales,Hypericaceae
+Geum urbanum,Herb Bennet,Rosales,Rosaceae
+Stachys sylvatica,Hedge Woundwort,Lamiales,Lamiaceae
+Thymus vulgaris,Garden Thyme,Lamiales,Lamiaceae
+Conopodium majus,Pignut,Apiales,Apiaceae
+Pilosella officinarum,Mouse-ear-hawkweed,Asterales,Asteraceae
+Galeopsis tetrahit,Common Hemp-nettle,Lamiales,Lamiaceae
+Circaea lutetiana,Enchanter's-nightshade,Myrtales,Onagraceae
+Clematis vitalba,Traveller's-joy,Ranunculales,Ranunculaceae
+Impatiens parviflora,Small Balsam,Ericales,Balsaminaceae
+Plantago maritima,Sea Plantain,Lamiales,Plantaginaceae
+Atriplex portulacoides,Sea-purslane,Caryophyllales,Amaranthaceae
+Tragopogon pratensis,Goat's-beard,Asterales,Asteraceae
+Epilobium parviflorum,Hoary Willowherb,Myrtales,Onagraceae
+Taraxacum agg,NA,Asterales,Asteraceae
+Polygala vulgaris,Common Milkwort,Fabales,Polygalaceae
+Vaccinium oxycoccos,Cranberry,Ericales,Ericaceae
+Rumex sanguineus,Wood Dock,Caryophyllales,Polygonaceae
+Spergula arvensis,Corn Spurrey,Caryophyllales,Caryophyllaceae
+Linum usitatissimum,Flax,Malpighiales,Linaceae
+Lamium purpureum,Red Dead-nettle,Lamiales,Lamiaceae
+Geranium pratense,Meadow Crane's-bill,Geraniales,Geraniaceae
+Lathyrus aphaca,Yellow Vetchling,Fabales,Fabaceae
+Tripleurospermum maritimum,Mayweed,Asterales,Asteraceae
+Stellaria media,Common Chickweed,Caryophyllales,Caryophyllaceae
+Polygonum aviculare,Knotgrass,Caryophyllales,Polygonaceae
+Rhinanthus minor,Yellow-rattle,Lamiales,Orobanchaceae
+Valeriana officinalis,Common Valerian,Dipsacales,Caprifoliaceae
+Apium nodiflorum,Fool's-water-cress,Apiales,Apiaceae
+Hyacinthoides non,Bluebell,Asparagales,Asparagaceae
+Caltha palustris,Marsh-marigold,Ranunculales,Ranunculaceae
+Digitalis ferruginea,Rusty Foxglove,Lamiales,Plantaginaceae
+Veronica officinalis,Heath Speedwell,Lamiales,Plantaginaceae
+Trifolium dubium,Lesser Trefoil,Fabales,Fabaceae
+Myosotis discolor,Changing Forget-me-not,NA,Boraginaceae
+Sambucus nigra,Elder,Dipsacales,Adoxaceae
+Heracleum mantegazzianum,Giant Hogweed,Apiales,Apiaceae
+Drosera rotundifolia,Round-leaved Sundew,Caryophyllales,Droseraceae
+Vicia hirsuta,Hairy Tare,Fabales,Fabaceae
+Sherardia arvensis,Field Madder,Gentianales,Rubiaceae
+Galium mollugo,Hedge Bedstraw,Gentianales,Rubiaceae
+Vicia tetrasperma,Smooth Tare,Fabales,Fabaceae
+Rumex acetosa,Common Sorrel,Caryophyllales,Polygonaceae
+Lotus angustissimus,Slender Bird's-foot-trefoil,Fabales,Fabaceae
+Prunella vulgaris,Hybrid Self-Heal,Lamiales,Lamiaceae
+Polygala serpyllifolia,Heath Milkwort,Fabales,Polygalaceae
+Chaerophyllum temulum,Rough Chervil,Apiales,Apiaceae
+Rosa canina,NA,Rosales,Rosaceae
+Vicia cracca,Tufted Vetch,Fabales,Fabaceae
+Centaurea scabiosa,Greater Knapweed,Asterales,Asteraceae
+Brassica napus,Rape,Brassicales,Brassicaceae
+Lathyrus linifolius,Bitter-vetch,Fabales,Fabaceae
+Trientalis europaea,Chickweed-wintergreen,Ericales,Primulaceae
+Cardamine flexuosa,Wavy Bitter-cress,Brassicales,Brassicaceae
+Oenanthe crocata,Hemlock Water-dropwort,Apiales,Apiaceae
+Trifolium constantinopolitanum,Clover,Fabales,Fabaceae
+Cotoneaster salicifolius,Willow-leaved Cotoneaster,Rosales,Rosaceae
+Leucanthemum vulgare,Oxeye Daisy,Asterales,Asteraceae
+Veronica hederifolia,Ivy-leaved Speedwell,Lamiales,Plantaginaceae
+Stellaria holostea,Greater Stitchwort,Caryophyllales,Caryophyllaceae
+Ranunculus bulbosus,Bulbous Buttercup,Ranunculales,Ranunculaceae
+Veronica agrestis,Green Field-speedwell,Lamiales,Plantaginaceae
+Scrophularia nodosa,Common Figwort,Lamiales,Scrophulariaceae
+Veronica beccabunga,Brooklime,Lamiales,Plantaginaceae
+Galium odoratum,Woodruff,Gentianales,Rubiaceae
+Symphytum officinale,Common Comfrey,NA,Boraginaceae
+Vicia sepium,Bush Vetch,Fabales,Fabaceae
+Myosotis sylvatica,Wood Forget-me-not,NA,Boraginaceae
+Rubus caesius,Dewberry,Rosales,Rosaceae
+Brassica rapa,Turnip,Brassicales,Brassicaceae
+Iris pseudacorus,Yellow Iris,Asparagales,Iridaceae
+Taraxacum officinale,Dandelion,Asterales,Asteraceae
+Cytisus scoparius,Broom,Fabales,Fabaceae
+Potentilla anglica,Trailing Tormentil,Rosales,Rosaceae
+Oxalis acetosella,Wood-sorrel,Oxalidales,Oxalidaceae
+Pinguicula vulgaris,Common Butterwort,Lamiales,Lentibulariaceae
+Stellaria alsine,Bog Stitchwort,Caryophyllales,Caryophyllaceae
+Ranunculus acris,NA,Ranunculales,Ranunculaceae
+Lamium galeobdolon,Yellow Archangel,Lamiales,Lamiaceae
+Stachys arvensis,Field Woundwort,Lamiales,Lamiaceae
+Angelica sylvestris,Wild Angelica,Apiales,Apiaceae
+Epilobium tetragonum,Square-stalked Willowherb,Myrtales,Onagraceae
+Cerastium fontanum,NA,Caryophyllales,Caryophyllaceae
+Solanum tuberosum,Potato,Solanales,Solanaceae
+Digitalis grandiflora,Yellow Foxglove,Lamiales,Plantaginaceae
+Dioscorea communis,Black Bryony,Dioscoreales,Dioscoreaceae
+Teucrium scorodonia,Wood Sage,Lamiales,Lamiaceae
+Euphrasia officinalis,NA,Lamiales,Orobanchaceae
+Artemisia absinthium,Wormwood,Asterales,Asteraceae
+Sedum anglicum,English Stonecrop,Saxifragales,Crassulaceae
+Hypericum tetrapterum,Square-stalked St John's-wort,Malpighiales,Hypericaceae
+Mentha arvensis,Corn Mint,Lamiales,Lamiaceae
+Senecio jacobaea,Common Ragwort,Asterales,Asteraceae
+Vicia faba,Broad Bean,Fabales,Fabaceae
+Euphorbia helioscopia,Sun Spurge,Malpighiales,Euphorbiaceae
+Tripleurospermum maritimum,Sea Mayweed,Asterales,Asteraceae
+Conium maculatum,Hemlock,Apiales,Apiaceae
+Chenopodium album,Fat-hen,Caryophyllales,Amaranthaceae
+Sonchus oleraceus,Smooth Sow-thistle,Asterales,Asteraceae
+Genista anglica,Petty Whin,Fabales,Fabaceae
+Geranium molle,Dove's-foot Crane's-bill,Geraniales,Geraniaceae
+Potentilla reptans,Creeping Cinquefoil,Rosales,Rosaceae
+Senecio erucifolius,Hoary Ragwort,Asterales,Asteraceae
+Persicaria amplexicaulis,Red Bistort,Caryophyllales,Polygonaceae
+Bryonia dioica,White Bryony,Cucurbitales,Cucurbitaceae
+Helianthus annuus,Sunflower,Asterales,Asteraceae
+Conyza canadensis,Canadian Fleabane,Asterales,Asteraceae
+Origanum vulgare,Wild Marjoram,Lamiales,Lamiaceae
+Linaria vulgaris,Common Toadflax,Lamiales,Plantaginaceae
+Rubus idaeus,Raspberry,Rosales,Rosaceae
+Anthemis cotula,Stinking Chamomile,Asterales,Asteraceae
+Sanguisorba officinalis,Great Burnet,Rosales,Rosaceae
+Persicaria hydropiper,Water-pepper,Caryophyllales,Polygonaceae
+Limonium vulgare,Common Sea-lavender,Caryophyllales,Plumbaginaceae
+Solanum nigrum,Black Nightshade,Solanales,Solanaceae
+Fumaria officinalis,Common Fumitory,Ranunculales,Papaveraceae
+Galeopsis speciosa,Large-flowered Hemp-nettle,Lamiales,Lamiaceae
+Persicaria bistorta,Common Bistort,Caryophyllales,Polygonaceae
+Dactylorhiza maculata,Heath Spotted-orchid,Asparagales,Orchidaceae
+Ranunculus ficaria,Lesser Celandine,Ranunculales,Ranunculaceae
+Cruciata laevipes,Crosswort,Gentianales,Rubiaceae
+Crepis vesicaria,Beaked Hawk's-beard,Asterales,Asteraceae
+Thlaspi arvense,Field Penny-cress,Brassicales,Brassicaceae
+Raphanus raphanistrum,Radish,Brassicales,Brassicaceae
+Hippocrepis comosa,Horseshoe Vetch,Fabales,Fabaceae
+Trifolium campestre,Hop Trefoil,Fabales,Fabaceae
+Juncus conglomeratus,Compact Rush,Poales,Juncaceae
+Epilobium obscurum,Short-fruited Willowherb,Myrtales,Onagraceae
+Lotus subbiflorus,Hairy Bird's-foot-trefoil,Fabales,Fabaceae
+Achillea ptarmica,Sneezewort,Asterales,Asteraceae
+Persicaria lapathifolia,Pale Persicaria,Caryophyllales,Polygonaceae
+Torilis japonica,Upright Hedge-parsley,Apiales,Apiaceae
+Knautia arvensis,Field Scabious,Dipsacales,Caprifoliaceae
+Lythrum alatum,Angled Purple-loosestrife,Myrtales,Lythraceae
+Armeria maritima,Thrift,Caryophyllales,Plumbaginaceae
+Ligusticum scoticum,Scottish Lovage,Apiales,Apiaceae
+Cirsium eriophorum,Woolly Thistle,Asterales,Asteraceae
+Veronica montana,Wood Speedwell,Lamiales,Plantaginaceae
+Verbena officinalis,Vervain,Lamiales,Verbenaceae
+Juncus effusus,Soft-rush,Poales,Juncaceae
+Leontodon hispidus,Hawkbit,Asterales,Asteraceae
+Chenopodium ficifolium,Fig-leaved Goosefoot,Caryophyllales,Amaranthaceae
+Geranium nodosum,Knotted Crane's-bill,Geraniales,Geraniaceae
+Suaeda maritima,Annual Sea-blite,Caryophyllales,Amaranthaceae
+Aster tripolium,Sea Aster,Asterales,Asteraceae
+Ranunculus sardous,Hairy Buttercup,Ranunculales,Ranunculaceae
+Viola canina,Heath Dog-violet,Malpighiales,Violaceae
+Eupatorium cannabinum,Hemp-agrimony,Asterales,Asteraceae
+Cerastium glomeratum,Sticky Mouse-ear,Caryophyllales,Caryophyllaceae
+Acer pseudoplatanus,Sycamore,Sapindales,Sapindaceae
+Ajuga reptans,Bugle,Lamiales,Lamiaceae
+Euphorbia exigua,Dwarf Spurge,Malpighiales,Euphorbiaceae
+Barbarea vulgaris,Winter-cress,Brassicales,Brassicaceae
+Hordeum vulgare,Six-rowed Barley,Poales,Poaceae
+Panicum miliaceum,Common Millet,Poales,Poaceae
+Ceratocapnos claviculata,Climbing Corydalis,Ranunculales,Papaveraceae
+Ornithopus perpusillus,Bird's-foot,Fabales,Fabaceae
+Silybum marianum,Milk Thistle,Asterales,Asteraceae
+Solanum dulcamara,NA,Solanales,Solanaceae
+Geranium pyrenaicum,Hedgerow Crane's-bill,Geraniales,Geraniaceae
+Viola palustris,Marsh Violet,Malpighiales,Violaceae
+Lysimachia punctata,Dotted Loosestrife,Ericales,Primulaceae
+Lonicera caprifolium,Garden Honeysuckle,Dipsacales,Caprifoliaceae
+Thymus polytrichus,Wild Thyme,Lamiales,Lamiaceae
+Rosa arvensis,Field-rose,Rosales,Rosaceae
+Cerastium arvense,Field Mouse-ear,Caryophyllales,Caryophyllaceae
+Vicia lutea,Yellow-vetch,Fabales,Fabaceae
+Chenopodium quinoa,Quinoa,Caryophyllales,Amaranthaceae
+Fagopyrum esculentum,Buckwheat,Caryophyllales,Polygonaceae
+Brassica oleracea,Kale,Brassicales,Brassicaceae
+Matricaria chamomilla,Scented Mayweed,Asterales,Asteraceae
+Anthriscus caucalis,Bur Chervil,Apiales,Apiaceae
+Carduus nutans,Musk Thistle,Asterales,Asteraceae
+Centaurium erythraea,Common Centaury,Gentianales,Gentianaceae
+Dryas octopetala,Mountain Avens,Rosales,Rosaceae
+Stachys palustris,Marsh Woundwort,Lamiales,Lamiaceae
+Linum catharticum,Fairy Flax,Malpighiales,Linaceae
+Carum verticillatum,Whorled Caraway,Apiales,Apiaceae
+Lysimachia vulgaris,Yellow Loosestrife,Ericales,Primulaceae
+Leontodon saxatilis,Lesser Hawkbit,Asterales,Asteraceae
+Hypericum pulchrum,Slender St. John's-Wort,Malpighiales,Hypericaceae
+Drosera anglica,Great Sundew,Caryophyllales,Droseraceae
+Zea mays,Maize,Poales,Poaceae
+Jasione montana,Sheep's-bit,Asterales,Campanulaceae
+Hypericum perforatum,Perforate St. John's-Wort,Malpighiales,Hypericaceae
+Bupleurum tenuissimum,Slender Hare's-ear,Apiales,Apiaceae
+Veronica arvensis,Wall Speedwell,Lamiales,Plantaginaceae
+Artemisia annua,Annual Mugwort,Asterales,Asteraceae
+Jacobaea erucifolia,Hoary Ragwort,Asterales,Asteraceae
+Trifolium arvense,Hare's-foot Clover,Fabales,Fabaceae
+Potentilla recta,Sulphur Cinquefoil,Rosales,Rosaceae
+Raphanus sativus,Garden Radish,Brassicales,Brassicaceae
+Epilobium roseum,Pale Willowherb,Myrtales,Onagraceae
+Valeriana dioica,Marsh Valerian,Dipsacales,Caprifoliaceae
+Fallopia convolvulus,Black-bindweed,Caryophyllales,Polygonaceae
+Clinopodium vulgare,Wild Basil,Lamiales,Lamiaceae
+Pimpinella saxifraga,Burnet-saxifrage,Apiales,Apiaceae
+Veronica polita,Grey Field-speedwell,Lamiales,Plantaginaceae
+Tripleurospermum maritimum,Scentless Mayweed agg.,Asterales,Asteraceae
+Scrophularia auriculata,Water Figwort,Lamiales,Scrophulariaceae
+Symphytum officinale,Russian Comfrey,NA,Boraginaceae
+Sinapis alba,White Mustard,Brassicales,Brassicaceae
+Berula erecta,Lesser Water-parsnip,Apiales,Apiaceae
+Senecio jacobaea,NA,Asterales,Asteraceae
+Malva sylvestris,Common Mallow,Malvales,Malvaceae
+Atriplex patula,Common Orache,Caryophyllales,Amaranthaceae
+Spergularia media,Greater Sea-spurrey,Caryophyllales,Caryophyllaceae
+Circaea lutetiana,Upland Enchanter's-nightshade,Myrtales,Onagraceae
+Picris hieracioides,Hawkweed Oxtongue,Asterales,Asteraceae
