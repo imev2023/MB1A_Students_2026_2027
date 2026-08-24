@@ -1,6 +1,6 @@
 ---
 format: html
-practical: Practical_1_Introduction_to_R
+practical: Practical_2_Data_Frames_and_Plots
 ---
 
-# Practical 1: Introduction to R
+# Practical 2: Data Frames and Plots
