@@ -1,0 +1,6 @@
+Gene_ID,Cancer_Type,Gene_Mutation_Count,Gene_Severe_Mutation_Count,Gene_Individuals_with_Mutations_Count,Gene_Individuals_with_Severe_Mutations_Count
+NF1,Glioblastoma_Multiforme,52,31,35,26
+TP53,Glioblastoma_Multiforme,114,19,94,17
+RB1,Glioblastoma_Multiforme,31,22,30,22
+ATRX,Glioblastoma_Multiforme,37,16,25,16
+PTEN,Glioblastoma_Multiforme,109,40,104,40

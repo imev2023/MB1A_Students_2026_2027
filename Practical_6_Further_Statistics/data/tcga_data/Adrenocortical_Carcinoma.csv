@@ -1,0 +1,3 @@
+Gene_ID,Cancer_Type,Gene_Mutation_Count,Gene_Severe_Mutation_Count,Gene_Individuals_with_Mutations_Count,Gene_Individuals_with_Severe_Mutations_Count
+TP53,Adrenocortical_Carcinoma,20,9,18,9
+MEN1,Adrenocortical_Carcinoma,7,6,7,6

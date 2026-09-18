@@ -1,0 +1,8 @@
+Gene_ID,Cancer_Type,Gene_Mutation_Count,Gene_Severe_Mutation_Count,Gene_Individuals_with_Mutations_Count,Gene_Individuals_with_Severe_Mutations_Count
+CASP8,Head_and_Neck_Squamous_Cell_Carcinoma,64,27,54,27
+TP53,Head_and_Neck_Squamous_Cell_Carcinoma,438,144,354,138
+NOTCH1,Head_and_Neck_Squamous_Cell_Carcinoma,104,35,93,35
+FAT1,Head_and_Neck_Squamous_Cell_Carcinoma,153,109,120,89
+NSD1,Head_and_Neck_Squamous_Cell_Carcinoma,75,47,59,40
+CDKN2A,Head_and_Neck_Squamous_Cell_Carcinoma,114,79,106,76
+KMT2D,Head_and_Neck_Squamous_Cell_Carcinoma,89,48,76,44

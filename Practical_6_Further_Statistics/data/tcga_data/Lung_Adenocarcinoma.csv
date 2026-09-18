@@ -1,0 +1,10 @@
+Gene_ID,Cancer_Type,Gene_Mutation_Count,Gene_Severe_Mutation_Count,Gene_Individuals_with_Mutations_Count,Gene_Individuals_with_Severe_Mutations_Count
+RYR2,Lung_Adenocarcinoma,441,30,222,27
+MUC16,Lung_Adenocarcinoma,500,42,237,37
+TP53,Lung_Adenocarcinoma,280,79,264,78
+LRP1B,Lung_Adenocarcinoma,346,31,194,29
+CSMD3,Lung_Adenocarcinoma,429,48,225,45
+ZFHX4,Lung_Adenocarcinoma,295,30,175,29
+STK11,Lung_Adenocarcinoma,82,42,75,42
+TTN,Lung_Adenocarcinoma,839,43,284,40
+EGFR,Lung_Adenocarcinoma,86,30,70,30

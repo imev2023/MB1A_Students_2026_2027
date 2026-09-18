@@ -1,0 +1,12 @@
+Gene_ID,Cancer_Type,Gene_Mutation_Count,Gene_Severe_Mutation_Count,Gene_Individuals_with_Mutations_Count,Gene_Individuals_with_Severe_Mutations_Count
+PCLO,Skin_Cutaneous_Melanoma,702,26,232,25
+NF1,Skin_Cutaneous_Melanoma,110,46,75,39
+DNAH5,Skin_Cutaneous_Melanoma,884,46,274,43
+MUC16,Skin_Cutaneous_Melanoma,1992,35,330,31
+TP53,Skin_Cutaneous_Melanoma,86,26,70,25
+DNAH7,Skin_Cutaneous_Melanoma,429,29,178,23
+LRP1B,Skin_Cutaneous_Melanoma,486,34,205,32
+TTN,Skin_Cutaneous_Melanoma,2936,97,352,74
+DNAH8,Skin_Cutaneous_Melanoma,369,24,173,22
+ARID2,Skin_Cutaneous_Melanoma,94,36,65,29
+CDKN2A,Skin_Cutaneous_Melanoma,70,31,61,31

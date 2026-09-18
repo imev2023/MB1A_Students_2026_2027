@@ -1,0 +1,5 @@
+Gene_ID,Cancer_Type,Gene_Mutation_Count,Gene_Severe_Mutation_Count,Gene_Individuals_with_Mutations_Count,Gene_Individuals_with_Severe_Mutations_Count
+VHL,Kidney_Renal_Clear_Cell_Carcinoma,171,90,164,90
+SETD2,Kidney_Renal_Clear_Cell_Carcinoma,56,36,50,33
+PBRM1,Kidney_Renal_Clear_Cell_Carcinoma,157,112,151,110
+BAP1,Kidney_Renal_Clear_Cell_Carcinoma,41,25,39,24
