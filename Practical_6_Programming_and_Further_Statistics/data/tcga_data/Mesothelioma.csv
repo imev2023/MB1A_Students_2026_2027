@@ -1,4 +1,0 @@
-Gene_ID,Cancer_Type,Gene_Mutation_Count,Gene_Severe_Mutation_Count,Gene_Individuals_with_Mutations_Count,Gene_Individuals_with_Severe_Mutations_Count
-BAP1,Mesothelioma,19,14,18,14
-NF2,Mesothelioma,20,14,19,14
-SETD2,Mesothelioma,8,6,8,6

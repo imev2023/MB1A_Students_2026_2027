@@ -1,3 +1,0 @@
-Gene_ID,Cancer_Type,Gene_Mutation_Count,Gene_Severe_Mutation_Count,Gene_Individuals_with_Mutations_Count,Gene_Individuals_with_Severe_Mutations_Count
-TP53,Ovarian_Serous_Cystadenocarcinoma,59,23,56,23
-BRCA1,Ovarian_Serous_Cystadenocarcinoma,5,4,5,4

@@ -1,8 +1,0 @@
-Gene_ID,Cancer_Type,Gene_Mutation_Count,Gene_Severe_Mutation_Count,Gene_Individuals_with_Mutations_Count,Gene_Individuals_with_Severe_Mutations_Count
-PIK3R1,Uterine_Carcinosarcoma,8,7,6,6
-ARHGAP35,Uterine_Carcinosarcoma,6,4,6,4
-TP53,Uterine_Carcinosarcoma,57,9,52,9
-RB1,Uterine_Carcinosarcoma,6,4,5,3
-ZBTB7B,Uterine_Carcinosarcoma,7,3,6,3
-ARID1A,Uterine_Carcinosarcoma,10,7,7,5
-PTEN,Uterine_Carcinosarcoma,17,6,11,5

@@ -1,9 +1,0 @@
-Gene_ID,Cancer_Type,Gene_Mutation_Count,Gene_Severe_Mutation_Count,Gene_Individuals_with_Mutations_Count,Gene_Individuals_with_Severe_Mutations_Count
-ALB,Cholangiocarcinoma,3,2,3,2
-MUC16,Cholangiocarcinoma,3,2,2,2
-BAP1,Cholangiocarcinoma,8,4,7,4
-PBRM1,Cholangiocarcinoma,8,7,8,7
-CHD7,Cholangiocarcinoma,3,2,3,2
-MAGEA1,Cholangiocarcinoma,3,2,2,2
-ARID1A,Cholangiocarcinoma,4,3,4,3
-EPHA2,Cholangiocarcinoma,4,2,4,2

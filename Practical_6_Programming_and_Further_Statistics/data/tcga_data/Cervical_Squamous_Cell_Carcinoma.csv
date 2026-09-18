@@ -1,5 +1,0 @@
-Gene_ID,Cancer_Type,Gene_Mutation_Count,Gene_Severe_Mutation_Count,Gene_Individuals_with_Mutations_Count,Gene_Individuals_with_Severe_Mutations_Count
-EP300,Cervical_Squamous_Cell_Carcinoma,49,20,37,18
-KMT2C,Cervical_Squamous_Cell_Carcinoma,81,35,57,28
-KMT2D,Cervical_Squamous_Cell_Carcinoma,83,26,49,22
-FAT1,Cervical_Squamous_Cell_Carcinoma,38,16,27,15

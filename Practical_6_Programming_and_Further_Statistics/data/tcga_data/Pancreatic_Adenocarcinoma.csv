@@ -1,5 +1,0 @@
-Gene_ID,Cancer_Type,Gene_Mutation_Count,Gene_Severe_Mutation_Count,Gene_Individuals_with_Mutations_Count,Gene_Individuals_with_Severe_Mutations_Count
-SMAD4,Pancreatic_Adenocarcinoma,38,22,37,22
-TP53,Pancreatic_Adenocarcinoma,107,37,107,37
-CDKN2A,Pancreatic_Adenocarcinoma,38,28,35,28
-ARID1A,Pancreatic_Adenocarcinoma,13,9,9,9
