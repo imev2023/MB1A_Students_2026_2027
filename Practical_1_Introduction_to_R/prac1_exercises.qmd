@@ -1,0 +1,69 @@
+---
+title: "P1 Exercises"
+---
+
+# 3. Functions and variables
+## 3.1 Round()
+```{r}
+round(3.14159, digits = 0)
+round(3.14159, digits = 2)
+```
+## 3.2 Seq()
+```{r}
+print(seq(1, 10, 2))
+print(seq(5, 15, 5))
+print(seq(by = 2, from = 1, to = 10))
+print(seq(by = 5, to = 15, from = 5))
+```
+## 3.3 Rep()
+```{r}
+print(rep(5, 7))
+print(rep(x = 5, times = 7))
+```
+# 4 Variables
+## 4.1 Assigning variables
+
+```{r}
+whatsmynumber <- 1
+whatsmynumber <- 5
+```
+The output will be 5.
+```{r}
+print(whatsmynumber)
+```
+
+## 4.2 Classes
+Create character, numerical and logical variables, print them, then check their classes.
+```{r}
+x <- "charac"
+y <- 10.2
+z <- TRUE
+
+print(x)
+print(class(x))
+print(y)
+print(class(y))
+print(z)
+print(class(z))
+```
+
+```{r}
+# for example
+cell_id_1 <- "CX1"
+cell_id_2 <- "CX2"
+
+treated_1 <- TRUE
+treated_2 <- FALSE
+
+n_before_1 <- 5415
+n_before_2 <- 8123
+
+n_after_1 <- 1432
+n_after_2 <- 7543
+```
+
+
+
+
+
+
