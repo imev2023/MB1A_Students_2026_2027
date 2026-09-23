@@ -46,7 +46,6 @@ print(class(y))
 print(z)
 print(class(z))
 ```
-
 ```{r}
 # for example
 cell_id_1 <- "CX1"
@@ -63,6 +62,14 @@ n_after_2 <- 7543
 ```
 
 
+# 5 Vectors
+## 5.1 Encoding variables
+```{r}
+cell_ids <- c("CX1", "CX2")
+treated <- c(TRUE, FALSE)
+num_cells_before	c(5415, 8123)
+num_cells_after c(1432, 7543)
+```
 
 
 
